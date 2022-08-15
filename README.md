@@ -1,4 +1,4 @@
-[高能对撞粒子分类复杂赛](https://www.biendata.com/competition/jet/)
+[高能对撞粒子分类复杂赛](https://www.biendata.xyz/competition/jet/)
 
 队伍：CNS
 
